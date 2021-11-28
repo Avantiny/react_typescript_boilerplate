@@ -1,3 +1,18 @@
+# React TypeScript Boilerplate
+
+A React TypeScript boilerplate created to serve my custom needs and preferences as a developer. Setting environment everytime is a boring chore and having everything already preconfigured prevents wasting time everytime a project is created.
+
+This React/TypeScript boilerplate comes with:
+
+- ESLint + custom .eslintrc.js options
+- Prettier + custom .prettierrc.js options
+- custom tsconfig.json
+- custom settings in .vscode
+- styled-components and @types/styled-components
+
+This whole repository idea and a lot of the settings are inspired by a repository by my good friend Jakub Švehla:
+https://github.com/Svehla/node-graphql-boilerplate
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
